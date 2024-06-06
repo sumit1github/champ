@@ -3346,7 +3346,7 @@ body::-webkit-scrollbar-thumb{
 }
 .pricing_cont li{
 	font-size: 16px;
-	color:#818181;
+	color:black;
 	margin-top:15px;
 }
 .pricing_btn_wrapper{
